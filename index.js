@@ -36,7 +36,7 @@ function isEvenNumber(num) {
 }
 
 function isPalindrome(str) {
-  return str === 'ogo' ? true : false;
+  return str === 'ogo';
 }
 
 
